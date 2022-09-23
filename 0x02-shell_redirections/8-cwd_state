@@ -1,4 +1,2 @@
-total 0
-drwxr-xr-x 2 root root  25 Sep  5 12:07 .
-drwxr-xr-x 6 root root 161 Sep  5 12:02 ..
--rwxr--r-- 1 root root   0 Sep  5 12:07 8-cwd_state
+#!/bin/bash                                                   
+ls -la > ls_cwd_content
